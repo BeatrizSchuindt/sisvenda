@@ -36,7 +36,7 @@ Este repositório contém a documentação e o desenvolvimento do sistema propos
 
 ---
 
-## 🔷 Modelo Conceitual Orientado a Objetos (OO)
+## 🔷 [Modelo Conceitual Orientado a Objetos (OO)](https://lucid.app/lucidchart/3ab6d960-81c9-46d6-b9e2-7b98e5dd0f45/edit?viewport_loc=-769%2C-109%2C3511%2C1748%2COaRhBAe6IYM9&invitationId=inv_eaf0bf03-8ad6-41cd-bfa8-1bc1b8b04ea0)
 
 > Apresente o modelo conceitual orientado a objetos, com foco nas classes principais, atributos e relacionamentos.
 
