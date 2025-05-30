@@ -32,6 +32,15 @@ A operação se dá da seguinte forma:
  
 ---
 ## 📘 Story
+
+As histórias de usuário (User Stories) do sistema estão detalhadas no arquivo [user-storys.md](document/user-storys.md). Lá você encontrará a descrição completa das funcionalidades do sistema na perspectiva dos diferentes usuários:
+
+- Promotor de vendas
+- Cliente
+- Gerenciador
+- Gerente de estoque
+- Gerente de vendas
+
 ---
 
 ## 🧩 Modelo Conceitual DER
