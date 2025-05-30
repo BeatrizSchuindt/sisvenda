@@ -4,24 +4,34 @@ Este repositório contém a documentação e o desenvolvimento do sistema propos
 
 ## 📑 Índice
 
+- [🏢 Visão Geral](#-visão-geral)
 - [📘 Story](#-story)
 - [🧩 Modelo Conceitual DER](#-modelo-conceitual-der)
 - [🔷 Modelo Conceitual Orientado a Objetos (OO)](#-modelo-conceitual-orientado-a-objetos-oo)
 - [🗂️ Diagrama de Casos de Uso](#-diagrama-de-casos-de-uso)
 
 ---
+## 🏢 Visão Geral
+A **Empresa X** atua no setor de vendas de materiais eletroeletrônicos por meio de **catálogos impressos**, distribuídos via correio com o apoio de uma equipe de **promotores de venda**. Esses promotores visitam clientes em suas respectivas **áreas de cobertura (municípios)** com o objetivo de divulgar produtos, registrar pedidos e, assim, aumentar suas comissões — calculadas com base no volume de compras dos clientes.
 
+O sistema tem como objetivo **automatizar e gerenciar** esse processo, desde o **cadastro de promotores, clientes e produtos**, até o **registro, avaliação, entrega e acompanhamento de pedidos**. Ele também fornece **relatórios** para o controle de vendas, estoques e comissões.
+
+A operação se dá da seguinte forma:
+
+ 1. **O promotor de vendas** visualiza sua lista de clientes, registra novos pedidos e acompanha suas comissões.
+
+ 2. **Os pedidos realizados** são enviados à empresa, onde passam por:
+   - **Verificação de estoque** feita pelo gerente de estoque.
+   - **Análise financeira do cliente** realizada pelo gerente de vendas, que aprova ou cancela o pedido.
+   - Em caso de aprovação, é feita a **programação da entrega**, com reserva e baixa do estoque.
+   - No dia da entrega, o pedido é **processado e finalizado**.
+
+ 3. **Os clientes** podem acompanhar seus pedidos e recebem notificações sobre o andamento.
+
+ 4. **Os gerentes de vendas e de estoque** têm acesso a **relatórios detalhados** para controle e tomada de decisões.
+ 
+---
 ## 📘 Story
-
-> Descreva aqui a narrativa que contextualiza o sistema. Explique o problema, os usuários envolvidos, os objetivos do sistema e o que motivou seu desenvolvimento.
-
-### Exemplo de tópicos que podem ser abordados:
-- Contexto
-- Problema enfrentado
-- Público-alvo
-- Objetivos do sistema
-- Benefícios esperados
-
 ---
 
 ## 🧩 Modelo Conceitual DER
@@ -33,12 +43,6 @@ Este repositório contém a documentação e o desenvolvimento do sistema propos
 
 ### Modelo Lógico
 ![Diagrama Entidade Relacionamento Lógico](document/img/der-logico.jpg)
-
-### Sugestões:
-- Insira uma imagem do diagrama (pode ser um PNG/SVG)
-- Liste as entidades e seus atributos
-- Relacione as cardinalidades
-- Utilize explicações adicionais, se necessário
 
 ---
 
