@@ -11,6 +11,7 @@ Esse arquivo define as atribuições de cada grupo de trabalho.
 
 ---
 ## Requisitos
+> Ana Beatriz, Carlos, George, Luiz, Namem
   1. DER Conceitual
   2. DER Lógico
   3. OO Conceitual
@@ -21,6 +22,7 @@ Esse arquivo define as atribuições de cada grupo de trabalho.
 
 ---
 ## Gestão
+> Eduardo, George, Namem
   1. Backlog
   2. Planejamento da Sprint
   3. Revisão da Sprint
@@ -28,6 +30,7 @@ Esse arquivo define as atribuições de cada grupo de trabalho.
 
 ---
 ## Implementação
+> Carlos, Caroline, Eduardo, Mateus, Matheus
   1. Definição das linguagens
   2. Definição da arquitetura
   3. Codificação do software
@@ -35,6 +38,7 @@ Esse arquivo define as atribuições de cada grupo de trabalho.
 
 ---
 ## Testes
+> Ana Beatriz, George, Matheus, Pedro
   1. Definição dos cenários de Testes
   2. Especificação dos casos de testes automatizados
   3. Especificação dos casos de testes manuais
