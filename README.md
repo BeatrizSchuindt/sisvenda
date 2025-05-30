@@ -28,6 +28,12 @@ Este repositório contém a documentação e o desenvolvimento do sistema propos
 
 > Apresente aqui o Diagrama Entidade-Relacionamento (DER), que representa a modelagem dos dados do sistema.
 
+### Modelo Conceitual
+![Diagrama Entidade Relacionamento Conceitual](document/img/der-conceitual.jpg)
+
+### Modelo Lógico
+![Diagrama Entidade Relacionamento Lógico](document/img/der-logico.jpg)
+
 ### Sugestões:
 - Insira uma imagem do diagrama (pode ser um PNG/SVG)
 - Liste as entidades e seus atributos
